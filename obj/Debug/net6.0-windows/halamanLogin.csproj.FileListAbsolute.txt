@@ -1,0 +1,17 @@
+C:\Users\LENOVO\source\repos\halamanLogin\obj\Debug\net6.0-windows\halamanLogin.Form1.resources
+C:\Users\LENOVO\source\repos\halamanLogin\obj\Debug\net6.0-windows\halamanLogin.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\halamanLogin\obj\Debug\net6.0-windows\halamanLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\halamanLogin\obj\Debug\net6.0-windows\halamanLogin.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\halamanLogin\obj\Debug\net6.0-windows\halamanLogin.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\halamanLogin\obj\Debug\net6.0-windows\halamanLogin.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\halamanLogin\bin\Debug\net6.0-windows\halamanLogin.exe
+C:\Users\LENOVO\source\repos\halamanLogin\bin\Debug\net6.0-windows\halamanLogin.deps.json
+C:\Users\LENOVO\source\repos\halamanLogin\bin\Debug\net6.0-windows\halamanLogin.runtimeconfig.json
+C:\Users\LENOVO\source\repos\halamanLogin\bin\Debug\net6.0-windows\halamanLogin.dll
+C:\Users\LENOVO\source\repos\halamanLogin\bin\Debug\net6.0-windows\halamanLogin.pdb
+C:\Users\LENOVO\source\repos\halamanLogin\obj\Debug\net6.0-windows\halamanLogin.dll
+C:\Users\LENOVO\source\repos\halamanLogin\obj\Debug\net6.0-windows\refint\halamanLogin.dll
+C:\Users\LENOVO\source\repos\halamanLogin\obj\Debug\net6.0-windows\halamanLogin.pdb
+C:\Users\LENOVO\source\repos\halamanLogin\obj\Debug\net6.0-windows\halamanLogin.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\halamanLogin\obj\Debug\net6.0-windows\ref\halamanLogin.dll
+C:\Users\LENOVO\source\repos\halamanLogin\obj\Debug\net6.0-windows\halamanLogin.Form2.resources
